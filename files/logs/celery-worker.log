@@ -1,0 +1,5 @@
+[2024-09-04 13:56:53,984: INFO/MainProcess] Connected to redis://redis:6379/0
+[2024-09-04 13:56:53,986: INFO/MainProcess] mingle: searching for neighbors
+[2024-09-04 13:56:54,992: INFO/MainProcess] mingle: sync with 1 nodes
+[2024-09-04 13:56:54,992: INFO/MainProcess] mingle: sync complete
+[2024-09-04 13:56:54,999: INFO/MainProcess] celery@aa3743db1424 ready.
